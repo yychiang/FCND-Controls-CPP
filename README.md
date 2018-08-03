@@ -1,5 +1,5 @@
 # To Reviwer:
-An writeup can be found in the file: FCND_Control_Writeup.md
+An writeup can be found in the file: [FCND_control_writeup.md](https://github.com/yychiang/FCND-Controls-CPP/blob/master/FCND_control_writeup.md)
 
 # The C++ Project Readme #
 
